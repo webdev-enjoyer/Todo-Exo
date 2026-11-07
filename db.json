@@ -1,0 +1,68 @@
+
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn JavaScript",
+      "description": "Study variables, functions and arrays",
+      "completed": false,
+      "priority": "high",
+      "category": "Learning",
+      "createdAt": "2026-11-01"
+    },
+    {
+      "id": 2,
+      "title": "Build a REST API",
+      "description": "Practice HTTP methods using JSON Server",
+      "completed": false,
+      "priority": "high",
+      "category": "Programming",
+      "createdAt": "2026-11-02"
+    },
+    {
+      "id": 3,
+      "title": "Read a book",
+      "description": "Read 20 pages of a technical book",
+      "completed": true,
+      "priority": "low",
+      "category": "Personal",
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": 4,
+      "title": "Exercise",
+      "description": "Go for a 30-minute run",
+      "completed": false,
+      "priority": "medium",
+      "category": "Health",
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": 5,
+      "title": "Learn React",
+      "description": "Understand components, props and state",
+      "completed": false,
+      "priority": "medium",
+      "category": "Learning",
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": 6,
+      "title": "Clean my workspace",
+      "description": "Organize desk and computer files",
+      "completed": true,
+      "priority": "low",
+      "category": "Personal",
+      "createdAt": "2026-11-06"
+    },
+    {
+      "id": 7,
+      "title": "Practice API requests",
+      "description": "Test GET, POST, PUT, PATCH and DELETE",
+      "completed": false,
+      "priority": "high",
+      "category": "Programming",
+      "createdAt": "2026-11-07"
+    }
+  ]
+}
